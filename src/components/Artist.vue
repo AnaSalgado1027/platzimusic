@@ -10,6 +10,7 @@ export default {
 	name: 'artist',
 	props: ['artist']
 }
+
 </script>
 
 <style lang="stylus" scoped>
